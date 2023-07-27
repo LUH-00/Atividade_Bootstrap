@@ -1,0 +1,6 @@
+.sombra:hover {
+    box-shadow: 0px 0px 20px rgb(71, 71, 71);
+    cursor: pointer;
+}
+
+.bg-p{ background-color: #EBF3F9;}
